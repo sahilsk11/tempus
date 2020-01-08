@@ -37,7 +37,7 @@ class App extends React.Component {
             <TimeMarker importance="minor" top="1730px" marker="February 2019" description="Started Voler" />
             <TimeMarker importance="minor" top="1760px" marker="March 2019" description="Started Project Carbon" />
             <TimeMarker importance="minor" top="1800px" marker="May 2019" description="Attended Toronto Study Away" />
-            <TimeMarker importance="minor" top="1840px" marker="June 2019" description="Started internship at Prudential" />
+            <TimeMarker importance="medium" top="1840px" marker="June 2019" description="Started internship at Prudential" />
             <TimeMarker importance="minor" top="1880px" marker="July 2019" description="Shipped ThinkTwice" />
             <TimeMarker importance="major" top="1940px" marker="November 2019" description="Became President of DMK" />
             <TimeMarker importance="minor" top="2000px" marker="present" description="Started Tempus" />
